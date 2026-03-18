@@ -1,8 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class main {
-
+public class Trainapp {
     public static void main(String[] args) {
 
         // Welcome message
@@ -17,5 +16,6 @@ public class main {
 
         // Program continues
         System.out.println("System ready to add bogies.");
+        System.out.println("");
     }
 }
